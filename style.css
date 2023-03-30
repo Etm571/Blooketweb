@@ -1,0 +1,38 @@
+#blooketButton{
+    font-family: "titan one";
+}
+a:hover{
+
+    color: rgb(255, 255, 255);
+}
+a{
+    color: rgb(11, 141, 141);
+    text-decoration: none;
+}
+.header{
+    text-align: center;
+    margin-top: 50px;
+    margin: auto;
+    width: 290px;
+    border-style: none;
+    padding-right: 180px;
+}
+  
+#blooket{
+    font-family: "titan one";
+    font-size: 40px;
+    color: blue;
+}
+
+#etm571{
+    font-family: "titan one";
+    color: black;
+}
+  
+
+body{
+    display: flex;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 0%, rgba(200,45,255,1) 100%);
+    background-attachment: fixed;
+}
